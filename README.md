@@ -60,7 +60,7 @@ After writing their question and answer, they can press the save button, at the 
 Now, the user can repeat the first two steps to create multiple flashcards.
 If the user wants to navigate between flashcards, they click on the arrow button at the bottom right.
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/UB6CvDQ5Ps.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1584343312&Signature=CtzsWAaoaLEnAG5wB2dGBuWYrmU%3D" width=200><br>
+<img src="http://g.recordit.co/UB6CvDQ5Ps.gif" width=200><br>
 
 
 ## Required

@@ -47,4 +47,29 @@ Once they do that, they can press the save button and it will take them to a scr
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+`NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
+## Lab 3
+
+### App Description
+The app now saves all the flashcards the user created even when they close and reopen the app.
+
+### App Walk-though
+The user clicks the add button, at the bottom left, and it will take them to a new screen where it asks them to write their question and answer.
+After writing their question and answer, they can press the save button, at the bottom left, and it will take them to a screen that displays their flashcard. 
+Now, the user can repeat the first two steps to create multiple flashcards.
+If the user wants to navigate between flashcards, they click on the arrow button at the bottom right.
+
+<img src="https://s3.amazonaws.com/img0.recordit.co/UB6CvDQ5Ps.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1584343312&Signature=CtzsWAaoaLEnAG5wB2dGBuWYrmU%3D" width=200><br>
+
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 

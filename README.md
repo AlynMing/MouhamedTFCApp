@@ -73,3 +73,25 @@ If the user wants to navigate between flashcards, they click on the arrow button
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
+## Lab 4
+
+### App Description
+The app now has animations to swiftly change from the flashcard screen to the "add flashcard" screen and slide between different flashcards.
+
+### App Walk-though
+
+
+<img src="http://g.recordit.co/ak2nrmx53Z.gif" width=200><br>
+
+
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [ ] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [ ] User sees a celebration animation with confetti when they answer a question correctly
